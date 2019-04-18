@@ -120,9 +120,7 @@ Language), a domain-specific language in MDL -
     (THINGS <> NAILS NAILS-PSEUDO)>
 ```
 
-I'd love to see the more organized ZIL code, but Activision holds the rights,
-and the full source code has never been released - this and other snippets were
-released in the [ZIL manual][zil]. So, we'll have to make do with the MDL code.
+This and other snippets were released in the [ZIL manual][zil]. The rest of the ZIL code, is available [here](https://github.com/historicalsource/zork1) but for now, let's stick with the MDL code.
 
 [zil]: http://www.xlisp.org/zil.pdf
 
